@@ -1,0 +1,24 @@
+{
+  "name": "udemyplaywrightautomation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "testWebAPI": "npx playwright test  tests/WebAPIPart11.spec.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@azure/identity": "^4.14.1",
+    "@azure/playwright": "^1.1.6",
+    "@playwright/test": "^1.64.0",
+    "@types/node": "^26.6.5",
+    "allure-playwright": "^3.14.0",
+    "typescript": "^7.0.2"
+  },
+  "dependencies": {
+    "exceljs": "^4.4.0"
+  }
+}

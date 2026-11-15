@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","21877","First Playwright Test browser","chromium","2026-11-12","passed","2026-11-12","","UIBasicsTest.spec.js","",""
+"","33357","First Playwright Test page","chromium","2026-11-12","passed","2026-11-12","","UIBasicsTest.spec.js","",""
+"","28764","Dropdown Test page","chromium","2026-11-12","passed","2026-11-12","","UIBasicsTest.spec.js","",""
