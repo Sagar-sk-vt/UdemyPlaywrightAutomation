@@ -1,5 +1,5 @@
 const { test, expect } = require('@playwright/test');
-const {customtest} = require('../Utils/test-base.ts');
+const {customtest} = require('../Utils/test-base.js');
 const { isContext } = require('node:vm');
 const { POManager } = require('../PageObject/POManager');
 const dataset = JSON.parse(JSON.stringify(require('../Utils/orderPlaceTestData.json')));
