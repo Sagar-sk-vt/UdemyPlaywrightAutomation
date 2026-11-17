@@ -1,7 +1,7 @@
 const {test, expect} = require('@playwright/test');
 const { isContext } = require('node:vm');
 
-test.only('Client App End to End Test', async ({ page }) => {
+test('Client App End to End Test', async ({ page }) => {
 
     
     const email = "Ankitaanshika@gmail.com";

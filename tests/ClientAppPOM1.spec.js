@@ -3,7 +3,7 @@ const { isContext } = require('node:vm');
 const { POManager } = require('../PageObject/POManager');
 const dataset = JSON.parse(JSON.stringify(require('../Utils/orderPlaceTestData.json')));
 
-test.only('Client App login', async ({ page }) => {
+test('Client App login', async ({ page }) => {
     
     const poManager = new POManager(page, expect);
     const loginPage = poManager.getLoginPage();

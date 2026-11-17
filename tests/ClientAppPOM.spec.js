@@ -5,7 +5,7 @@ const {DashboardPage} =  require('../PageObject/DashboardPage');
 const {CartPage} =  require('../PageObject/CartPage');
 const {Checkoutpage} =  require('../PageObject/CheckoutPage');
 
-test.only('Client App login', async ({ page }) => {
+test('Client App login', async ({ page }) => {
 
     
     const email = "Ankitaanshika@gmail.com";

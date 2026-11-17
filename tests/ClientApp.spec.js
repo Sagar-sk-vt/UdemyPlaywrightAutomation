@@ -86,7 +86,7 @@ console.log(await username.textContent);
 });
 
 
-test.only('Client App login', async ({ page }) => {
+test('Client App login', async ({ page }) => {
 
     
     const email = "Ankitaanshika@gmail.com";
