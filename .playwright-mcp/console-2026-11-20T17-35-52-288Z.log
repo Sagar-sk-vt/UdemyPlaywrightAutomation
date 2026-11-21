@@ -1,0 +1,13 @@
+[    4379ms] [LOG] {$$typeof: Symbol(react.element), type: , key: null, ref: null, props: Object} @ https://rahulshettyacademy.com/seleniumPractise/main.72d06032ddde0bb58142.js:0
+[    4392ms] [LOG] {$$typeof: Symbol(react.element), type: , key: null, ref: null, props: Object} @ https://rahulshettyacademy.com/seleniumPractise/main.72d06032ddde0bb58142.js:0
+[   11410ms] [ERROR] Failed to load resource: net::ERR_TOO_MANY_REDIRECTS @ https://rahulshettyacademy.com/seleniumPractise/////////////////////favicon.ico:0
+[   87983ms] [LOG] quantity added... @ https://rahulshettyacademy.com/seleniumPractise/main.72d06032ddde0bb58142.js:5
+[   97454ms] [LOG] 1 @ https://rahulshettyacademy.com/seleniumPractise/main.72d06032ddde0bb58142.js:5
+[   97456ms] [LOG] [Object] @ https://rahulshettyacademy.com/seleniumPractise/main.72d06032ddde0bb58142.js:5
+[  200043ms] [ERROR] Failed to load resource: net::ERR_TOO_MANY_REDIRECTS @ https://rahulshettyacademy.com/seleniumPractise/////////////////////favicon.ico:0
+[  229588ms] [ERROR] Failed to load resource: net::ERR_TOO_MANY_REDIRECTS @ https://rahulshettyacademy.com/seleniumPractise/////////////////////favicon.ico:0
+[  229616ms] [ERROR] Failed to load resource: net::ERR_TOO_MANY_REDIRECTS @ https://rahulshettyacademy.com/seleniumPractise/////////////////////favicon.ico:0
+[  258243ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://px.ads.linkedin.com/wa/?medium=fetch&fmt=g:0
+[  321690ms] [LOG] {$$typeof: Symbol(react.element), type: , key: null, ref: null, props: Object} @ https://rahulshettyacademy.com/seleniumPractise/main.72d06032ddde0bb58142.js:0
+[  321723ms] [LOG] {$$typeof: Symbol(react.element), type: , key: null, ref: null, props: Object} @ https://rahulshettyacademy.com/seleniumPractise/main.72d06032ddde0bb58142.js:0
+[  326500ms] [ERROR] Failed to load resource: net::ERR_TOO_MANY_REDIRECTS @ https://rahulshettyacademy.com/seleniumPractise/////////////////////favicon.ico:0

@@ -1,0 +1,12 @@
+[    4746ms] [LOG] {$$typeof: Symbol(react.element), type: , key: null, ref: null, props: Object} @ https://rahulshettyacademy.com/seleniumPractise/main.72d06032ddde0bb58142.js:0
+[    4761ms] [LOG] {$$typeof: Symbol(react.element), type: , key: null, ref: null, props: Object} @ https://rahulshettyacademy.com/seleniumPractise/main.72d06032ddde0bb58142.js:0
+[    4807ms] [INFO] Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2 @ https://rahulshettyacademy.com/seleniumPractise/main.72d06032ddde0bb58142.js:0
+[    4859ms] [INFO] Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMaxKUBGEe.woff2 @ https://rahulshettyacademy.com/seleniumPractise/main.72d06032ddde0bb58142.js:0
+[    5644ms] [INFO] Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3KUBGEe.woff2 @ https://rahulshettyacademy.com/seleniumPractise/main.72d06032ddde0bb58142.js:0
+[   48983ms] [LOG] quantity added... @ https://rahulshettyacademy.com/seleniumPractise/main.72d06032ddde0bb58142.js:5
+[   53482ms] [ERROR] Failed to load resource: net::ERR_TOO_MANY_REDIRECTS @ https://rahulshettyacademy.com/seleniumPractise/////////////////////favicon.ico:0
+[   64819ms] [LOG] quantity added... @ https://rahulshettyacademy.com/seleniumPractise/main.72d06032ddde0bb58142.js:5
+[   94848ms] [LOG] 1 @ https://rahulshettyacademy.com/seleniumPractise/main.72d06032ddde0bb58142.js:5
+[   94848ms] [LOG] [Object] @ https://rahulshettyacademy.com/seleniumPractise/main.72d06032ddde0bb58142.js:5
+[  108764ms] [LOG] 1 @ https://rahulshettyacademy.com/seleniumPractise/main.72d06032ddde0bb58142.js:5
+[  108768ms] [LOG] [Object, Object] @ https://rahulshettyacademy.com/seleniumPractise/main.72d06032ddde0bb58142.js:5

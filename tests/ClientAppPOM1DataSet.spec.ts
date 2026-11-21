@@ -26,7 +26,7 @@ test(`Client App login ${data.ProductName}`, async ({ page }) => {
     await dashboardPage.SearchProduct(data.ProductName);
     await dashboardPage.goToCart();
 
-    // Check if the product is in the cart
+    // Check if the product is in the carta
     await cartPage.verifyProductInCart();
 
     // Checkout page with order placement operation 

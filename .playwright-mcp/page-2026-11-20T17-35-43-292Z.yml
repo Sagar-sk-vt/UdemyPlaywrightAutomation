@@ -1,0 +1,92 @@
+- generic [ref=e787]:
+  - banner [ref=e788]:
+    - generic [ref=e789]:
+      - generic [ref=e790]: GREENKART
+      - link "🎯 I’ll help you prepare for your next QA job — Explore the QA Career Accelerator." [ref=e792] [cursor=pointer]:
+        - /url: https://rahulshettyacademy.com/qa-career-accelerator-job-ready
+  - generic [ref=e797]:
+    - generic [ref=e798]:
+      - generic [ref=e799]:
+        - generic [ref=e800]:
+          - generic [ref=e801]: "Page size:"
+          - combobox "Page size:" [ref=e802]:
+            - option "5"
+            - option "10" [selected]
+            - option "20"
+        - generic [ref=e803]:
+          - generic [ref=e804]: "Search:"
+          - searchbox "Search:" [ref=e805]: Mango
+      - list "Pagination" [ref=e807]:
+        - listitem:
+          - button "First" [disabled]
+        - listitem:
+          - button "Previous" [disabled]
+        - listitem [ref=e808]:
+          - button "1 (current)" [ref=e809] [cursor=pointer]:
+            - text: "1"
+            - generic [ref=e810]: (current)
+        - listitem [ref=e887]:
+          - button "2" [ref=e888] [cursor=pointer]
+        - listitem [ref=e817]:
+          - button "Next" [ref=e818] [cursor=pointer]
+        - listitem [ref=e819]:
+          - button "Last" [ref=e820] [cursor=pointer]
+    - table [ref=e821]:
+      - alert [ref=e822]: "Sorted by name: descending order"
+      - rowgroup [ref=e823]:
+        - row [ref=e824]:
+          - 'columnheader "Veg/fruit name: activate to sort column ascending" [ref=e825] [cursor=pointer]': Veg/fruit name
+          - 'columnheader "Price: activate to sort column ascending" [ref=e827] [cursor=pointer]': Price
+          - 'columnheader "Discount price: activate to sort column ascending" [ref=e828] [cursor=pointer]': Discount price
+      - rowgroup [ref=e829]:
+        - row [ref=e889]:
+          - cell "Wheat" [ref=e890]
+          - cell "67" [ref=e891]
+          - cell "28" [ref=e892]
+        - row [ref=e893]:
+          - cell "Tomato" [ref=e894]
+          - cell "37" [ref=e895]
+          - cell "26" [ref=e896]
+        - row [ref=e897]:
+          - cell "Strawberry" [ref=e898]
+          - cell "23" [ref=e899]
+          - cell "15" [ref=e900]
+        - row [ref=e901]:
+          - cell "Rice" [ref=e902]
+          - cell "37" [ref=e903]
+          - cell "46" [ref=e904]
+        - row [ref=e905]:
+          - cell "Potato" [ref=e906]
+          - cell "34" [ref=e907]
+          - cell "22" [ref=e908]
+        - row [ref=e909]:
+          - cell "Pineapple" [ref=e910]
+          - cell "44" [ref=e911]
+          - cell "34" [ref=e912]
+        - row [ref=e913]:
+          - cell "Orange" [ref=e914]
+          - cell "88" [ref=e915]
+          - cell "23" [ref=e916]
+        - row [ref=e875]:
+          - cell "Mango" [ref=e876]
+          - cell "93" [ref=e877]
+          - cell "53" [ref=e878]
+        - row [ref=e917]:
+          - cell "Guava" [ref=e918]
+          - cell "42" [ref=e919]
+          - cell "20" [ref=e920]
+        - row [ref=e921]:
+          - cell "Dragon fruit" [ref=e922]
+          - cell "58" [ref=e923]
+          - cell "40" [ref=e924]
+  - generic [ref=e850]:
+    - generic [ref=e851]: Delivery Date
+    - generic [ref=e853]:
+      - generic [ref=e854]:
+        - spinbutton "--" [ref=e855]
+        - generic [ref=e856]: /
+        - spinbutton "--" [ref=e857]
+        - generic [ref=e858]: /
+        - spinbutton "----" [ref=e859]
+      - button [active] [ref=e860] [cursor=pointer]
+      - button [ref=e864] [cursor=pointer]
